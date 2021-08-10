@@ -1,0 +1,35 @@
+.row{
+  margin-left: 15% !important;
+  display: block !important;
+}
+.col{
+    float: left;
+    width: 30%;
+    height: auto;
+    background-color: brown;
+}
+.card{
+    width: 20rem;
+    height: 12rem;
+    align-items: center;
+    text-align: center;
+    border-radius: 5px !important;
+    border: 1px solid white !important;
+    box-shadow: 0 3px 6px silver;
+    margin-top: 40px;
+    background-color: lavender !important;
+    display: flex;
+    flex-direction: row;
+    float: left;
+    margin-left: 100px;
+}
+.card-body{
+    color: green;
+}
+.heading{
+    text-align: center;
+    align-items: center;
+    color: darkgreen;
+    margin-left: 17%;
+    margin-top: 3%;
+}
